@@ -1,0 +1,49 @@
+Assignment 1
+
+int a = 1557890
+a%1000 = 0
+print (a)
+
+
+int a = 1
+b = 100 
+(for a =1; a <= 50; i++)
+(for b=100; b<= 50; b--)
+print (a,b)
+
+
+int a = 12
+sum = 0
+while (i<=15)
+sum = sum +1
+i = i +1
+print (sum/4)
+
+int a
+if (a<5)
+print (baby)
+if (5<=a<10)
+print (toodler)
+if(10<=a<18)
+print (teenage)
+if (18<=a<25)
+print (adult)
+if(a>25)
+print (grown old)
+
+int a=1 
+sum = 0
+while (a<=10)
+a = a +1 
+a = a^2
+sum = sum + a
+print (sum)
+
+x = 3
+i = 2
+while (i < x)
+if x % i == 0
+print (not prime)
+i = i +1
+else 
+print (prime)
